@@ -25,11 +25,19 @@ La caja del SDR Dongle contiene:
 Precauciones
 ------------
 
-ADVERTENCIA: Para realizar las pruebas con el RSA (Radio Signal Analyser), es necesario siempre conectar el atenuador de 40 dB como se muestra en la imagen de  abajo para evitar daños en el SDR Dongle.
+ADVERTENCIA: Para realizar las pruebas con el RSA (Radio Signal Analyzer), es necesario siempre conectar el atenuador de 40 dB como se muestra en la imagen de  abajo para evitar daños en el SDR Dongle.
 
 ![sdr2](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sdr2.png)
 
-Para abrir el SNE (Sigfox Network Emulator) es necesario tener Windows o 
+Sigfox Network Emulator
+-----------------------
+
+###Requerimientos
+
+-	Software emulador, el cual está disponible para Windows 7 y 10 ([Link](https://support.sigfox.com/downloads/snek.exe)) y para Ubuntu 16.04 ([Link](https://support.sigfox.com/downloads/snek.deb))
+
+NOTA 1: Para usuarios de Linux, asegurarse de estar en el grupo ”plugdev”.
+NOTA 2: Los navegadores soportados son Google Chrome y Mozilla Firefox.
 
 
-Repositorio donde se muestra el uso del SDR Dongle
+
