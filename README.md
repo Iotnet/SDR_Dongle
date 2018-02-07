@@ -1,2 +1,23 @@
-# SDR_Dongle
+SDR_Dongle
+==============
+
+- 	[Introducción](#introducción)
+
+Introducción
+------------
+El SDR Dongle de Sigfox es una herramienta que permite emular el Backend sin necesidad de una cuenta ni de registrar los dispositivos. Esto permite probar y desarrollar dispositivos de otras zonas. Además, tambien permite analizar el patrón de radiación de nuestros dispositivos de manera que podamos prepararlo para los test de certificación.
+
+La caja del SDR Dongle contiene:
+<br /> 
+1 SDR Dongle de Sigfox con conector SMA.
+<br />
+1 cable SMA/SMA.
+<br />
+1 cable SMA/UFL.
+<br />
+1 atenuador de 40 dB.
+
+Para abrir el SNE (Sigfox Network Emulator) es necesario tener Windows o 
+
+
 Repositorio donde se muestra el uso del SDR Dongle
