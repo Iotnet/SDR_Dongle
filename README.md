@@ -27,6 +27,8 @@ Precauciones
 
 ADVERTENCIA: Para realizar las pruebas con el RSA (Radio Signal Analyser), es necesario siempre conectar el atenuador de 40 dB como se muestra en la imagen de  abajo para evitar daños en el SDR Dongle.
 
+![sdr2](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sdr2.png)
+
 Para abrir el SNE (Sigfox Network Emulator) es necesario tener Windows o 
 
 
