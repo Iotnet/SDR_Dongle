@@ -64,7 +64,7 @@ después de unos minutos, la instalación finalizará. Click en “Finish”
 
 Ahora que ya tenemos instalado el software, conectamos el SDR Dongle a nuestra computadora. Abrimos el menú de inicio Inicio, y buscamos el programa “Sigfox Network Emulator”.
 
-![inst7](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst7.png)
+![inst6](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst6.png)
 
 ![sne1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne1.png)
 
