@@ -20,6 +20,7 @@ La caja del SDR Dongle contiene:
 <br />
 1 atenuador de 40 dB.
 
+![sdr1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sdr1.png)
 
 Precauciones
 ------------
