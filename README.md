@@ -37,7 +37,38 @@ Sigfox Network Emulator
 -	Software emulador, el cual está disponible para Windows 7 y 10 ([Link](https://support.sigfox.com/downloads/snek.exe)) y para Ubuntu 16.04 ([Link](https://support.sigfox.com/downloads/snek.deb))
 
 NOTA 1: Para usuarios de Linux, asegurarse de estar en el grupo ”plugdev”.
+
 NOTA 2: Los navegadores soportados son Google Chrome y Mozilla Firefox.
 
+### Instalación
 
+![inst1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst1.png)
+
+![inst2](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst2.png)
+
+![inst3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst3.png)
+
+![inst4](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst4.png)
+
+![inst5](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst5.png)
+
+![inst6](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst6.png)
+
+![inst7](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst7.png)
+
+![sne1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne1.png)
+
+![sne2](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne2.png)
+
+![sne3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne3.png)
+
+![sne4](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne4.png)
+
+![down0](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/down0.png)
+
+![down1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/down1.png)
+
+![down2](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/down2.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/down3.png)
 
