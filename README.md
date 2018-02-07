@@ -42,17 +42,27 @@ NOTA 2: Los navegadores soportados son Google Chrome y Mozilla Firefox.
 
 ### Instalación
 
+Una vez descargada la versión para nuestro sistema operativo, lo ejecutamos como administrador. En este caso se hará para Windows 7.
+
 ![inst1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst1.png)
+
+enseguida aparecerá una ventana para iniciar con el proceso de instalación. Click en “Next”
 
 ![inst2](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst2.png)
 
+aceptamos el acuerdo de la licencia y damos click en “Next”
+
 ![inst3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst3.png)
+
+seleccionamos la ruta donde se va instalar. Por defecto lo hace en “Archivos de Programa”. Click en “Next”
 
 ![inst4](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst4.png)
 
+después de unos minutos, la instalación finalizará. Click en “Finish”
+
 ![inst5](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst5.png)
 
-![inst6](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst6.png)
+Ahora que ya tenemos instalado el software, conectamos el SDR Dongle a nuestra computadora. Abrimos el menú de inicio Inicio, y buscamos el programa “Sigfox Network Emulator”.
 
 ![inst7](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst7.png)
 
