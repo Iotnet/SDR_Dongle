@@ -66,6 +66,12 @@ Ahora que ya tenemos instalado el software, conectamos el SDR Dongle a nuestra c
 
 ![inst6](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/inst6.png)
 
+### SNE
+
+Al ejecutar el programa, se abrirá en nuestro navegador. (Recargar la página en dado caso que no se abra de forma correcta). Lo primero es configurar la region. Para este ejemplo se utilizará el botón “Simple Pack” el cual es Zona 1 (868 MHz).
+
+Seleccionamos RC1 en “Radio Configuration” y automáticamente configurará los demás parametros. Damos click en “Save”
+
 ![sne1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne1.png)
 
 ![sne2](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne2.png)
