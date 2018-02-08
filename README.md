@@ -114,3 +114,5 @@ Realizamos una petición de downlink desde nuestro dispositivo y esperamos a que
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/down3.png)
 
+Finalmente, para cerrarlo, damos click en el icono de “Apagar” en la esquina superior derecha y cerramos la pestaña del navegador.
+
