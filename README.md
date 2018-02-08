@@ -145,7 +145,11 @@ Esta herramienta nos permite analizar en tiempo real las señales de dispositivo
 
 Una vez descargado el archivo .iso y UNetBootin de acuerdo a nuestro sistema operativo, ejecutamos UNetBootin el cual no requiere de instalación. Enseguida nos aparecerá un recuadro donde seleccionaremos el archivo .iso y nuestra memoria USB. Igualmente configuramos cuanta memoria asignaremos a Ubuntu. 
 
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/boot1.png)
+
 Click en OK y esperamos a que termine el proceso de instalación.
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/boot2.png)
 
 Una vez completado, apagamos nuestra computadora. 
 
