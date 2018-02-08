@@ -33,7 +33,7 @@ La caja del SDR Dongle contiene:
 Precauciones
 ------------
 
-ADVERTENCIA: Para realizar las pruebas con el RSA (Radio Signal Analyzer), es necesario siempre conectar el atenuador de 40 dB como se muestra en la imagen de  abajo para evitar daños en el SDR Dongle.
+ADVERTENCIA: Para realizar las pruebas con el RSA (Radio Signal Analyzer) o con el SNE (Sigfox Network Emulator) conectando nuestro dispositivo por medio de un cable, es necesario siempre conectar el atenuador de 40 dB como se muestra en la imagen de  abajo para evitar daños en el SDR Dongle.
 
 ![sdr2](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sdr2.png)
 
@@ -78,7 +78,9 @@ Al ejecutar el programa, se abrirá en nuestro navegador. (Recargar la página e
 
 ### SNE
 
- Lo primero es configurar la region. Para este ejemplo se utilizará un dispositivo el cual es Zona 1 (868 MHz). Seleccionamos RC1 en “Radio Configuration” y automáticamente configurará los demás parametros. Damos click en “Save”
+Con esta herramienta podemos probar dispositivos de otras Zonas ajenas a la zona en la que nos encontremos, por lo que si nuestro dispositivo bajo prueba no tiene conector SMA o UFL, podemos ponerle una antena a nuestro SDR Dongle para que pueda recibir los mensajes enviados por el dispositivo, asegurándonos que la distancia entre los 2 sea mayor a 50 cm para evitar saturación.
+
+Ahora, lo primero es configurar la region. Para este ejemplo se utilizará un dispositivo el cual es Zona 1 (868 MHz). Seleccionamos RC1 en “Radio Configuration” y automáticamente configurará los demás parametros. Damos click en “Save”
 
 ![sne1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne1.png)
 
