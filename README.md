@@ -141,5 +141,20 @@ Esta herramienta nos permite analizar en tiempo real las señales de dispositivo
 
 -	Software para crear la memoria booteable [UNetBootin](https://unetbootin.github.io/)
 
+### Booteable
+
+Una vez descargado el archivo .iso y UNetBootin de acuerdo a nuestro sistema operativo, ejecutamos UNetBootin el cual no requiere de instalación. Enseguida nos aparecerá un recuadro donde seleccionaremos el archivo .iso y nuestra memoria USB. Igualmente configuramos cuanta memoria asignaremos a Ubuntu. 
+
+Click en OK y esperamos a que termine el proceso de instalación.
+
+Una vez completado, apagamos nuestra computadora. 
+
+Para los siguientes pasos, antes de que arranque el sistema operativo, modificamos el lugar desde donde se cargará, por lo que necesitamos entrar al las opciones de arranque.
+
+Una vez dentro, configuramos para que la primera opción de arranque sea la memoria USB ya booteada. Enseguida empezará a cargar Ubuntu.
+
+
+
+
 
 
