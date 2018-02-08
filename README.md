@@ -120,10 +120,10 @@ Realizamos una petición de downlink desde nuestro dispositivo y esperamos a que
 
 Finalmente, para cerrarlo, damos click en el icono de “Apagar” en la esquina superior derecha y cerramos la pestaña del navegador.
 
-Radio Signal Analyser
+Radio Signal Analyzer
 ---------------------
 
-Esta herramienta nos permite analizar en tiempo real las señales de dispositivos Sigfox. Puede decodificar los mensajes analizar la señal RF del dispositivo (Modulación, demodulacion, precisión de la velocidad de datos, precisión de fase, etc.) El software compara los resultados con los requerimientos de Sigfox y permite hacer una pre certificación del dispositivo. Esto no remplaza ninguna certificación realizada en un laboratorio certificado y aprobado por Sigfox.
+Esta herramienta nos permite analizar en tiempo real las señales de dispositivos Sigfox. Puede decodificar los mensajes y analizar la señal RF del dispositivo (Modulación, demodulacion, precisión de la velocidad de datos, precisión de fase, etc.) El software compara los resultados con los requerimientos de Sigfox y permite hacer una pre certificación del dispositivo. Esto no remplaza ninguna certificación realizada en un laboratorio certificado y aprobado por Sigfox.
 
 ### Requerimientos
 
@@ -139,7 +139,7 @@ Esta herramienta nos permite analizar en tiempo real las señales de dispositivo
 
 -	Archivo .iso ([LINK](https://support.sigfox.com/downloads/sigfoxradiosignalanalyzer.iso))
 
--	Software para crear la memoria booteable [UNetBootin] (https://unetbootin.github.io/)
+-	Software para crear la memoria booteable [UNetBootin](https://unetbootin.github.io/)
 
 
 
