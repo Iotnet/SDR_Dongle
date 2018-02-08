@@ -12,13 +12,13 @@ El SDR Dongle de Sigfox es una herramienta que permite emular el Backend sin nec
 
 La caja del SDR Dongle contiene:
 <br /> 
-1 SDR Dongle de Sigfox con conector SMA.
+- 1 SDR Dongle de Sigfox con conector SMA.
 <br />
-1 cable SMA/SMA.
+- 1 cable SMA/SMA.
 <br />
-1 cable SMA/UFL.
+- 1 cable SMA/UFL.
 <br />
-1 atenuador de 40 dB.
+- 1 atenuador de 40 dB.
 
 ![sdr1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sdr1.png)
 
@@ -70,9 +70,7 @@ Al ejecutar el programa, se abrirá en nuestro navegador. (Recargar la página e
 
 ### SNE
 
- Lo primero es configurar la region. Para este ejemplo se utilizará el botón “Simple Pack” el cual es Zona 1 (868 MHz).
-
-Seleccionamos RC1 en “Radio Configuration” y automáticamente configurará los demás parametros. Damos click en “Save”
+ Lo primero es configurar la region. Para este ejemplo se utilizará un dispositivo el cual es Zona 1 (868 MHz). Seleccionamos RC1 en “Radio Configuration” y automáticamente configurará los demás parametros. Damos click en “Save”
 
 ![sne1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne1.png)
 
@@ -88,12 +86,23 @@ Una vez que nuestro dispositivo mande un mensaje, este se verá reflejado en los
 
 ![sne4](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne4.png)
 
+### Downlinks
+
+Para realizar downlinks, es necesario cambiar el dispositivo de “Private Key” a “Public Key” o conocer la clave de autenticación del dispositivo. 
+
+Seleccionamos la pestaña de “Callbacks” lo configuramos. Para este caso, se utilizará la configuración por default. 
 
 ![down0](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/down0.png)
 
+Configuramos la zona de nuestro dispositivo y damos click en “Save”
+
 ![down1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/down1.png)
 
+Agregamos nuestro dispositivo
+
 ![down2](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/down2.png)
+
+Realizamos una petición de downlink desde nuestro dispositivo y esperamos a que se realice de forma exitosa.
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/down3.png)
 
