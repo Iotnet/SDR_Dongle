@@ -74,11 +74,18 @@ Seleccionamos RC1 en “Radio Configuration” y automáticamente configurará l
 
 ![sne1](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne1.png)
 
+Ahora seleccionamos la pestaña de “Devices” y escribimos el ID de nuestro dispositivo junto con un nombre. Podemos registrar hasta 5 dispositivos los cuales se pueden modificar en cualquier momento. Click en “Save”
+
 ![sne2](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne2.png)
+
+Una vez guardada la configuración, nos vamos a la pestaña de “Messages” y deshabilitamos la opción de autenticación.
 
 ![sne3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne3.png)
 
+Una vez que nuestro dispositivo mande un mensaje, este se verá reflejado en los mensajes
+
 ![sne4](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sne4.png)
+
 
 ![down0](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/down0.png)
 
