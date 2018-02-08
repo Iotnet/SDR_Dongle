@@ -21,10 +21,13 @@ El SDR Dongle de Sigfox es una herramienta que permite emular el Backend sin nec
 La caja del SDR Dongle contiene:
 <br /> 
 - 1 SDR Dongle de Sigfox con conector SMA.
+
 <br />
 - 1 cable SMA/SMA.
+
 <br />
 - 1 cable SMA/UFL.
+
 <br />
 - 1 atenuador de 40 dB.
 
