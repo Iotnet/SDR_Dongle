@@ -157,6 +157,28 @@ Para los siguientes pasos, antes de que arranque el sistema operativo, modificam
 
 Una vez dentro, configuramos para que la primera opción de arranque sea la memoria USB ya booteada. Enseguida empezará a cargar Ubuntu.
 
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/init1.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/init2.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/init3.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu1.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu2.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu3.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu35.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu4.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu5.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu6.png)
+
+
+
 
 
 
