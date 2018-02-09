@@ -153,7 +153,7 @@ Click en OK y esperamos a que termine el proceso de instalación.
 
 Una vez completado, apagamos nuestra computadora. 
 
-Para los siguientes pasos, antes de que arranque el sistema operativo, modificamos el lugar desde donde se cargará, por lo que necesitamos entrar al BIOS y modificar las opciones de arranque.
+Para los siguientes pasos, antes de que arranque el sistema operativo, debemos modificar el lugar desde donde arrancará, por lo que necesitamos entrar al BIOS y modificar las opciones de arranque.
 
 Para este ejemplo se utilizará una laptop VAIO, por lo que para entrar al BIOS, dejamos presionado F2 al momento de encender la maquina (Dependiendo de la marca, varia la tecla que debemos presionar)
 
@@ -177,18 +177,13 @@ Ejecutamos el programa y aceptamos el acuerdo de la licencia
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu2.png)
 
-
+Ahora ya podemos realizar pruebas de medición de la señal RF de un dispositivo.
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu3.png)
 
-![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu35.png)
+para mas información sobre los diferentes test revisar la siguiente documentación:
 
-![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu4.png)
-
-![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu5.png)
-
-![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu6.png)
-
+-	[Radio Signal Analizer-User guide](https://storage.sbg1.cloud.ovh.net/v1/AUTH_669d7dfced0b44518cb186841d7cbd75/staging_docs/att14428358-Radio%20Signal%20Analyser_user%20guide.pdf)
 
 
 
