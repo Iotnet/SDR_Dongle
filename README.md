@@ -153,19 +153,31 @@ Click en OK y esperamos a que termine el proceso de instalación.
 
 Una vez completado, apagamos nuestra computadora. 
 
-Para los siguientes pasos, antes de que arranque el sistema operativo, modificamos el lugar desde donde se cargará, por lo que necesitamos entrar al las opciones de arranque.
+Para los siguientes pasos, antes de que arranque el sistema operativo, modificamos el lugar desde donde se cargará, por lo que necesitamos entrar al BIOS y modificar las opciones de arranque.
 
-Una vez dentro, configuramos para que la primera opción de arranque sea la memoria USB ya booteada. Enseguida empezará a cargar Ubuntu.
+Para este ejemplo se utilizará una laptop VAIO, por lo que para entrar al BIOS, dejamos presionado F2 al momento de encender la maquina (Dependiendo de la marca, varia la tecla que debemos presionar)
+
+Una vez dentro, configuramos para que la primera opción de arranque sea la memoria USB ya booteada. Nos vamos a la pestaña “Boot” y habilitamos la opción para el arranque a partir de dispositivos externos y le damos la prioridad mas alta a “dispositivos externos”. Guardamos y salimos.
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/init1.png)
 
+Enseguida, nos aparecerá un menú, donde seleccionaremos “Try Ubuntu MATE without installing”
+
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/init2.png)
+
+e inmediatamente después, empezará a cargar Ubuntu
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/init3.png)
 
+Una vez inicializado, veremos el escritorio donde visualizaremos el programa para el “Radio Signal Analyzer”
+
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu1.png)
 
+Ejecutamos el programa y aceptamos el acuerdo de la licencia
+
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu2.png)
+
+
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu3.png)
 
