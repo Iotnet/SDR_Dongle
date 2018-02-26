@@ -278,11 +278,19 @@ Para instalar el programa para el SNE, conectamos nuestra otra memoria con el ej
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macsne1.png)
 
+ejecutamos el programa dando doble click y nos aparecerá una ventana. Hacemos click en “Install Package”
+
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macsne2.png)
+
+introducimos la contraseña, la cual es “rsa”. Aceptamos los términos de la licencia y damos click en Forward 
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macsne3.png)
 
+después de unos minutos, terminará la instalación. Click en close, y cerramos las demás ventanas.
+
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macsne4.png)
+
+Conectamos nuestro SDR Dongle y nos vamos a Applications -> Internet -> Sigfox Network Emulator. Lo ejecutamos y se abrirá en algún navegador
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macsne5.png)
 
