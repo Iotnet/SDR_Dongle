@@ -259,12 +259,12 @@ Para arrancar el sistema operativo desde nuestra memoria, es necesario cambiar e
 
 Sin dejar de presionar encendemos nuestra computadora. Nos aparecerá un menú donde seleccionaremos el origen del sistema operativo que deseamos cargar. 
 
-![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/boot22.png)
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/boot22.jpeg)
 
 
 Seleccionamos la memoria booteable y después seleccionamos “Try Ubuntu MATE without installing”. 
 
-![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/boot23.png)
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/boot23.jpeg)
 
 Inmediatamente después, empezará a cargar el sistema operativo desde la memoria
 
