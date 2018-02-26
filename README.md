@@ -5,13 +5,19 @@ SDR_Dongle
 
 -	[Precauciones](#precauciones)
 
--	[Sigfox Network Emulator](#sigfox-network-emulator)
+-	[Sigfox Network Emulator-Windows](#sigfox-network-emulator-windows)
 
 	-	[Requerimientos](#requerimientos)
 
 	-	[Instalación](#instalación)
 
 	-	[SNE](#sne)
+
+-	[Radio Signal Analizer](#radio-signal-analizer)
+
+	- 	[Requerimientos](#requerimientos)
+
+	-	[Booteable](#booteable)
 
 Introducción
 ------------
@@ -37,8 +43,8 @@ ADVERTENCIA: Para realizar las pruebas con el RSA (Radio Signal Analyzer) o con 
 
 ![sdr2](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/sdr2.png)
 
-Sigfox Network Emulator
------------------------
+Sigfox Network Emulator-Windows
+-------------------------------
 
 Esta herramienta permite probar dispositivos de otras zonas diferentes a la zona en la que nos encontremos, por lo que si nuestro dispositivo bajo prueba no tiene conector SMA o UFL, podemos ponerle una antena a nuestro SDR Dongle para que pueda recibir los mensajes enviados por el dispositivo, asegurándonos que la distancia entre los 2 sea mayor a 50 cm para evitar saturación.
 
