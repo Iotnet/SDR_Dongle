@@ -7,7 +7,7 @@ SDR_Dongle
 
 -	[Sigfox Network Emulator-Windows](#sigfox-network-emulator-windows)
 
-	-	[Requerimientos](#requerimientos)
+	-	[Requerimientos Windows](#requerimientos-windows)
 
 	-	[Instalación](#instalación)
 
@@ -15,11 +15,19 @@ SDR_Dongle
 
 -	[Radio Signal Analizer](#radio-signal-analizer)
 
-	- 	[Requerimientos](#requerimientos)
+	- 	[Requerimientos RSA](#requerimientos-rsa)
 
 	-	[Booteable](#booteable)
 
 -	[Procedimiento macOS](#procedimiento-macos)
+
+	-	[Requerimientos macOS](#requerimientos-macos)
+
+	-	[Memoria booteable](#memoria-booteable)
+
+	-	[Inicializando Ubuntu](#inicializando-ubuntu)
+
+	-	[Instalación SNE](#instalación-sne)
 
 
 
@@ -52,7 +60,7 @@ Sigfox Network Emulator-Windows
 
 Esta herramienta permite probar dispositivos de otras zonas diferentes a la zona en la que nos encontremos, por lo que si nuestro dispositivo bajo prueba no tiene conector SMA o UFL, podemos ponerle una antena a nuestro SDR Dongle para que pueda recibir los mensajes enviados por el dispositivo, asegurándonos que la distancia entre los 2 sea mayor a 50 cm para evitar saturación.
 
-### Requerimientos
+### Requerimientos Windows
 
 -	Software emulador, el cual está disponible para Windows 7 y 10 ([Link](https://support.sigfox.com/downloads/snek.exe)) y para Ubuntu 16.04 ([Link](https://support.sigfox.com/downloads/snek.deb))
 
@@ -135,7 +143,7 @@ Radio Signal Analyzer
 
 Esta herramienta nos permite analizar en tiempo real las señales de dispositivos Sigfox. Puede decodificar los mensajes y analizar la señal RF del dispositivo (Modulación, demodulacion, precisión de la velocidad de datos, precisión de fase, etc.) El software compara los resultados con los requerimientos de Sigfox y permite hacer una pre certificación del dispositivo. Esto no remplaza ninguna certificación realizada en un laboratorio certificado y aprobado por Sigfox.
 
-### Requerimientos
+### Requerimientos RSA
 
 -	1 cable SMA/SMA o 1 cable SMA/UFL
 
@@ -200,7 +208,7 @@ Procedimiento macOS
 
 A continuación se muestra el procedimiento para macOS, desde crear la memoria booteable con Ubuntu Mate hasta instalar el programa para el SNEK. 
 
-### Requerimientos
+### Requerimientos macOS
 
 -	1 memoria USB con mínimo 2 GB disponibles
 
