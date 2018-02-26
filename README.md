@@ -210,7 +210,7 @@ A continuación se muestra el procedimiento para macOS, desde crear la memoria b
 
 -	Archivo .iso ([LINK](https://support.sigfox.com/downloads/sigfoxradiosignalanalyzer.iso))
 
--	Software para crear la memoria booteable [UNetBootin](https://unetbootin.github.io/)
+-	Software para crear la memoria booteable [UNetBootin](https://unetbootin.github.io/) para macOS
 
 ### Memoria booteable
 
@@ -242,7 +242,7 @@ ingresamos nuestra contraseña para realizar los cambios
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot7.png)
 
-a continuación intentamos volver a abrir “unetbootin”, en dado caso que no se abra automáticamente. Seleccionamos el archivo .iso descargado, asignamos cierta cantidad de MB para el sistema operativo (se usaron 200 MB para este ejemplo) y seleccionamos la memoria donde montaremos la imagen. Click en “OK”
+a continuación intentamos volver a abrir “unetbootin”, en dado caso que no se abra automáticamente. Seleccionamos el archivo .iso descargado, asignamos cierta cantidad de MB para el sistema operativo (se usaron 200 MB para este ejemplo) y seleccionamos la memoria donde montaremos la imagen ISO. Click en “OK”
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot8.png)
 
@@ -251,6 +251,17 @@ Enseguida empezará a extraer y copiar los archivos a nuestra memoria. Después 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot9.png)
 
 Con eso ya tenemos nuestra memoria lista para arrancar el sistema operativo Ubuntu con la aplicación del RSA.
+
+### Inicializando Ubuntu
+
+Para arrancar el sistema operativo desde nuestra memoria, es necesario cambiar el origen. Procedemos a apagar nuestra maquina. Una vez apagada, conectamos conectamos la memoria booteable y presionamos la tecla “alt”. 
+
+
+Sin dejar de presionar encendemos nuestra computadora. Nos aparecerá un menú donde seleccionaremos el origen del sistema operativo que deseamos cargar. Seleccionamos la memoria booteable y después seleccionamos “Try Ubuntu MATE without installing”. Inmediatamente después, empezará a cargar el sistema operativo desde la memoria
+
+
+
+
 
 
 
