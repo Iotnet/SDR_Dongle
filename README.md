@@ -212,6 +212,8 @@ A continuación se muestra el procedimiento para macOS, desde crear la memoria b
 
 -	Software para crear la memoria booteable [UNetBootin](https://unetbootin.github.io/) para macOS
 
+-	Memoria extra con el ejecutable del SNEK para Ubuntu ([Link](https://support.sigfox.com/downloads/snek.deb))
+
 ### Memoria booteable
 
 Una vez descargados los dos archivos (.iso y UNetBootin), damos doble click en el archivo de UNetBootin
@@ -254,7 +256,7 @@ Con eso ya tenemos nuestra memoria lista para arrancar el sistema operativo Ubun
 
 ### Inicializando Ubuntu
 
-Para arrancar el sistema operativo desde nuestra memoria, es necesario cambiar el origen. Procedemos a apagar nuestra maquina. Una vez apagada, conectamos conectamos la memoria booteable y presionamos la tecla “alt”. 
+Para arrancar el sistema operativo desde nuestra memoria, es necesario cambiar el origen. Procedemos a apagar nuestra maquina. Una vez apagada, conectamos la memoria booteable y presionamos la tecla “alt”. 
 
 
 Sin dejar de presionar encendemos nuestra computadora. Nos aparecerá un menú donde seleccionaremos el origen del sistema operativo que deseamos cargar. 
@@ -266,11 +268,23 @@ Seleccionamos la memoria booteable y después seleccionamos “Try Ubuntu MATE w
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/boot23.jpeg)
 
-Inmediatamente después, empezará a cargar el sistema operativo desde la memoria
+después de unos minutos, empezará a cargar el sistema operativo desde la memoria
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/ubuntu1.png)
 
+### Instalación SNE
 
+Para instalar el programa para el SNE, conectamos nuestra otra memoria con el ejecutable del SNEK.
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macsne1.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macsne2.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macsne3.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macsne4.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macsne5.png)
 
 
 
