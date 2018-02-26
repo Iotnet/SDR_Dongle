@@ -19,6 +19,10 @@ SDR_Dongle
 
 	-	[Booteable](#booteable)
 
+-	[Procedimiento macOS](#procedimiento-macos)
+
+
+
 Introducción
 ------------
 
@@ -191,7 +195,44 @@ para mas información sobre los diferentes test revisar la siguiente documentaci
 
 -	[Radio Signal Analizer-User guide](https://storage.sbg1.cloud.ovh.net/v1/AUTH_669d7dfced0b44518cb186841d7cbd75/staging_docs/att14428358-Radio%20Signal%20Analyser_user%20guide.pdf)
 
+Procedimiento macOS
+-------------------
 
+A continuación se muestra el procedimiento para macOS, desde crear la memoria booteable con Ubuntu Mate hasta instalar el programa para el SNEK. 
+
+### Requerimientos
+
+-	1 memoria USB con mínimo 2 GB disponibles
+
+-	Computadora con procesador de 64 bits
+
+-	2 GB de memoria RAM mínimo 
+
+-	Archivo .iso ([LINK](https://support.sigfox.com/downloads/sigfoxradiosignalanalyzer.iso))
+
+-	Software para crear la memoria booteable [UNetBootin](https://unetbootin.github.io/)
+
+### Memoria booteable
+
+Una vez descargados los dos archivos (.iso y UNetBootin), 
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot1.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot2.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot3.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot4.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot5.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot6.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot7.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot8.png)
+
+![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot9.png)
 
 
 
