@@ -214,26 +214,43 @@ A continuación se muestra el procedimiento para macOS, desde crear la memoria b
 
 ### Memoria booteable
 
-Una vez descargados los dos archivos (.iso y UNetBootin), 
+Una vez descargados los dos archivos (.iso y UNetBootin), damos doble click en el archivo de UNetBootin
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot1.png)
 
+nos aparecerá una ventana con dos iconos. Damos doble click en el icono de “unetbootin”
+
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot2.png)
+
+enseguida, se mostrará un cuadro de dialogo diciéndonos que no se puede abrir porque proviene de un “desarrollador no identificado”
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot3.png)
 
+hacemos click en “OK”. Abrimos  Preferencias del Sistema -> Seguridad y Privacidad 
+
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot4.png)
+
+damos click en “Abrir de todos modos”
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot5.png)
 
+enseguida aparecerá un cuadro de dialogo. Click en “Abrir”
+
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot6.png)
+
+ingresamos nuestra contraseña para realizar los cambios
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot7.png)
 
+a continuación intentamos volver a abrir “unetbootin”, en dado caso que no se abra automáticamente. Seleccionamos el archivo .iso descargado, asignamos cierta cantidad de MB para el sistema operativo (se usaron 200 MB para este ejemplo) y seleccionamos la memoria donde montaremos la imagen. Click en “OK”
+
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot8.png)
+
+Enseguida empezará a extraer y copiar los archivos a nuestra memoria. Después de unos minutos, terminará de preparar la memoria booteable. Damos click en “Exit”
 
 ![down3](https://github.com/Iotnet/SDR_Dongle/blob/master/imagenes/macboot9.png)
 
+Con eso ya tenemos nuestra memoria lista para arrancar el sistema operativo Ubuntu con la aplicación del RSA.
 
 
 
